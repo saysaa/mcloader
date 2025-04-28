@@ -1,0 +1,17 @@
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\bin\Release\net8.0-windows\MCLoader.exe
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\bin\Release\net8.0-windows\MCLoader.deps.json
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\bin\Release\net8.0-windows\MCLoader.runtimeconfig.json
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\bin\Release\net8.0-windows\MCLoader.dll
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\bin\Release\net8.0-windows\MCLoader.pdb
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.Form1.resources
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.Properties.Resources.resources
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.csproj.GenerateResource.cache
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.AssemblyInfoInputs.cache
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.AssemblyInfo.cs
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.csproj.CoreCompileInputs.cache
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.dll
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\refint\MCLoader.dll
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.pdb
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\MCLoader.genruntimeconfig.cache
+C:\Users\lprimoo\Desktop\MCLoader\MCLoader\MCLoader\obj\Release\net8.0-windows\ref\MCLoader.dll

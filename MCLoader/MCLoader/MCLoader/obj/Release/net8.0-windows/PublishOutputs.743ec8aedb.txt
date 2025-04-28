@@ -1,0 +1,5 @@
+C:\Users\lprimoo\Desktop\MCLoader_release\MCLoader.exe
+C:\Users\lprimoo\Desktop\MCLoader_release\MCLoader.dll
+C:\Users\lprimoo\Desktop\MCLoader_release\MCLoader.deps.json
+C:\Users\lprimoo\Desktop\MCLoader_release\MCLoader.runtimeconfig.json
+C:\Users\lprimoo\Desktop\MCLoader_release\MCLoader.pdb
